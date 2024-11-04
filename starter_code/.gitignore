@@ -1,0 +1,11 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+.vscode
+frontend/node_modules/
+
+# Environments
+.env
+env/
+.venv
+venv/
+.ipynb_checkpoints
